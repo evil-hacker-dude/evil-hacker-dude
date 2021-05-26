@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evil-hacker-dude
+- 👋 Hi, I’m @evil_hackerdude
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate on hacking
